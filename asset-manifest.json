@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-reactjs/static/css/main.e2bb5ede.css",
-    "main.js": "/test-reactjs/static/js/main.c4f80856.js",
+    "main.js": "/test-reactjs/static/js/main.7c478419.js",
     "static/js/787.681ac577.chunk.js": "/test-reactjs/static/js/787.681ac577.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/test-reactjs/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/test-reactjs/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,11 +11,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/test-reactjs/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/test-reactjs/index.html",
     "main.e2bb5ede.css.map": "/test-reactjs/static/css/main.e2bb5ede.css.map",
-    "main.c4f80856.js.map": "/test-reactjs/static/js/main.c4f80856.js.map",
+    "main.7c478419.js.map": "/test-reactjs/static/js/main.7c478419.js.map",
     "787.681ac577.chunk.js.map": "/test-reactjs/static/js/787.681ac577.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2bb5ede.css",
-    "static/js/main.c4f80856.js"
+    "static/js/main.7c478419.js"
   ]
 }
